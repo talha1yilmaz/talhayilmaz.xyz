@@ -1,0 +1,8 @@
+*.py
+*.bat
+*.log
+__pycache__/
+stitch_screens/
+makale/*.md
+admin.html
+assets/js/admin.js
