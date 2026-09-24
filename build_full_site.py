@@ -39,9 +39,6 @@ UNIFIED_NAV = """<nav class="hidden xl:flex items-center gap-1 font-body-sm text
             </a>
             <a class="px-3 py-1.5 rounded hover:text-primary hover:bg-surface-container transition-colors" href="ozgecmis.html">Özgeçmiş</a>
             <a class="px-3 py-1.5 rounded hover:text-primary hover:bg-surface-container transition-colors" href="index.html#iletisim">İletişim</a>
-            <a class="px-2.5 py-1 rounded bg-primary/10 text-primary hover:bg-primary hover:text-white transition-colors text-xs font-mono font-semibold ml-2" href="admin.html" title="Yönetici Paneli">
-              ⚙️ Admin
-            </a>
           </nav>"""
 
 def clean_and_replace_author_info(content):
