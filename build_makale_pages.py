@@ -130,6 +130,9 @@ def build_articles():
         # Convert to HTML
         html_content = markdown.markdown(md_text, extensions=md_exts)
 
+        # Wrap tables in responsive container
+        html_content = re.sub(r'(<table>.*?</table>)', r'<div class="table-container">\1</div>', html_content, flags=re.DOTALL)
+
         # Extract TOC items (h2)
         toc_items = []
         for match in re.finditer(r'<h2[^>]*id="([^"]+)"[^>]*>(.*?)<\/h2>', html_content):

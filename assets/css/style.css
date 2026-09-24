@@ -552,6 +552,128 @@ img { max-width: 100%; height: auto; display: block; }
   text-align: left;
 }
 
+/* --- Academic Tables --- */
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  margin: 2rem 0;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: var(--canvas-elevated);
+  box-shadow: var(--shadow-sm);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+thead {
+  background: var(--canvas-subtle);
+  border-bottom: 2px solid var(--border-strong);
+}
+
+th {
+  padding: 0.85rem 1rem;
+  font-family: var(--sans);
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--ink-secondary);
+  vertical-align: top;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:hover td {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+[data-theme="dark"] tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* --- Academic Figures & Visual Diagrams --- */
+.academic-figure {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+  background: var(--canvas-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.figure-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+  padding: 1rem 0;
+}
+
+.figure-content svg {
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption, .figure-caption {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  text-align: center;
+  font-family: var(--sans);
+}
+
+figcaption strong, .figure-caption strong {
+  color: var(--ink);
+}
+
+/* --- Callout & Case Study Boxes --- */
+.callout-box {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border-radius: var(--radius-lg);
+  border-left: 4px solid var(--accent);
+  background: var(--canvas-subtle);
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+.callout-box.danger {
+  border-left-color: #dc2626;
+  background: rgba(220, 38, 38, 0.05);
+}
+
+.callout-box.info {
+  border-left-color: #2563eb;
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.callout-box h5 {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 /* --- References / Bibliography --- */
 .references {
   margin-top: 3rem;

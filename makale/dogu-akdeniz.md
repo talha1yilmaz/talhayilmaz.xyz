@@ -83,24 +83,75 @@ Stephen M. Walt (1987), devletlerin sadece güce karşı değil, "algılanan teh
 
 Doğu Akdeniz'deki krizin merkezinde, devletlerin deniz yetki alanlarını sınırlandırırken benimsedikleri taban tabana zıt hukuk felsefeleri ve antlaşmalar rejimi yer almaktadır.
 
-```
-+----------------------------------------------------------------------------------------------------+
-|                                    DENİZ HUKUKU SINIRLANDIRMA TEZLERİ                              |
-+--------------------------+------------------------------------+------------------------------------+
-| Parametre                | Yunanistan - GKRY Tezi             | Türkiye Tezi (Mavi Vatan)          |
-+--------------------------+------------------------------------+------------------------------------+
-| Temel Prensip            | "Eşit Uzaklık / Ortay Hat"         | "Hak ve Hakkaniyet" (Equity)       |
-|                          | (Equidistance / Median Line)       | Kıyı Uzunluğu Orantılılığı         |
-+--------------------------+------------------------------------+------------------------------------+
-| Adaların Statüsü         | Adalar anakaralarla eşit oranda    | Adaların anakaranın doğal uzantı-  |
-| (Meis, Rodos, Girit)     | tam MEB ve kıta sahanlığı üretir.  | sını kesemeyeceği; sınırlı etki.   |
-+--------------------------+------------------------------------+------------------------------------+
-| Harita Referansı         | Sevilla Haritası (Maksimalist)     | 2019 Libya Mutabakatı ve BM Bildirisi|
-+--------------------------+------------------------------------+------------------------------------+
-| Yasal Dayanak            | UNCLOS 1982 Madde 121/2            | Uluslararası Adalet Divanı İçtihadı|
-|                          |                                    | (1969, 1982, 1985, 2009 Kararları) |
-+--------------------------+------------------------------------+------------------------------------+
-```
+| Sınırlandırma Parametresi | Yunanistan – GKRY Tezi | Türkiye Tezi (Mavi Vatan Doktrini) | Uluslararası Yargı İçtihatları (UAD/ICJ) |
+| :--- | :--- | :--- | :--- |
+| **Temel Hukuk Prensibi** | **"Eşit Uzaklık / Ortay Hat"**<br>*(Equidistance / Median Line)* | **"Hak ve Hakkaniyet İlkesi"**<br>*(Equitable Principles / Proportionality)* | Hakkaniyet esastır; coğrafi orantısızlıkta ortay hat zorunlu değildir. |
+| **Adaların MEB Statüsü**<br>*(Meis, Rodos, Girit)* | Adalar anakaralarla birebir eşit oranda tam MEB ve kıta sahanlığı üretir (UNCLOS m. 121/2). | Adalar anakaranın doğal uzantısını kesemez; kapatmama (non-encroachment) ilkesi gereği sınırlı etki alır. | UAD (1969 Kuzey Denizi, 1985 Malta, 2009 Yılan Adası): Adalara sıfır veya kısmi etki verilmiştir. |
+| **Referans Harita ve Kapsam** | **Sevilla Haritası:** Meis'e 40.000 km² MEB tanıyan maksimalist AB destekli harita. | **2019 Libya Mutabakatı:** Anadolu ve Libya kıyıları arasında 462.000 km² Mavi Vatan. | Sevilla haritası hukuki dayanaktan yoksundur; UAD coğrafi üstünlüğü esas alır. |
+| **Hukuki Dayanak** | UNCLOS 1982 Madde 121/2 | UNCLOS Madde 74 & 83; Uluslararası Teamül Hukuku; BM Şartı Madde 102 | Teamül hukuku "hakkaniyete uygun çözüm" (equitable solution) şartı koşar. |
+
+<figure class="academic-figure">
+  <div class="figure-content">
+    <svg viewBox="0 0 820 260" xmlns="http://www.w3.org/2000/svg" style="font-family:'Inter', sans-serif;">
+      <defs>
+        <linearGradient id="med-sea" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0c4a6e"/>
+          <stop offset="100%" stop-color="#0369a1"/>
+        </linearGradient>
+        <filter id="shadow5" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+
+      <!-- Background Sea Box -->
+      <rect x="20" y="20" width="780" height="220" rx="8" fill="url(#med-sea)"/>
+
+      <!-- Anatolia Mainland (North) -->
+      <path d="M 120 20 Q 350 70 700 20 L 700 20 L 120 20" fill="#334155"/>
+      <rect x="280" y="30" width="260" height="26" rx="4" fill="#1e293b" opacity="0.9"/>
+      <text x="410" y="47" fill="#f8fafc" font-size="12" font-weight="700" text-anchor="middle">ANADOLU ANAKARASI (1.792 km Kıyı Şeridi)</text>
+
+      <!-- Libya Mainland (South) -->
+      <rect x="100" y="210" width="300" height="26" rx="4" fill="#1e293b" opacity="0.9"/>
+      <text x="250" y="227" fill="#f8fafc" font-size="12" font-weight="700" text-anchor="middle">LİBYA (Derne - Tobruk Hattı)</text>
+
+      <!-- Greek Maximalist Claim: Seville Map Box -->
+      <g filter="url(#shadow5)">
+        <rect x="40" y="85" width="220" height="105" rx="6" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5" opacity="0.92"/>
+        <text x="150" y="108" fill="#fecaca" font-size="11" font-weight="700" text-anchor="middle">SEVİLLA HARİTASI (İflas Etti)</text>
+        <text x="55" y="128" fill="#fff" font-size="9.5">• 10 km² Meis'e 40.000 km² MEB</text>
+        <text x="55" y="145" fill="#fff" font-size="9.5">• Türkiye'yi Körfeze Hapsetme</text>
+        <text x="55" y="162" fill="#fff" font-size="9.5">• Hukuki/Coğrafi Temeli Yok</text>
+        <rect x="55" y="170" width="190" height="14" rx="2" fill="#991b1b"/>
+        <text x="150" y="181" fill="#fee2e2" font-size="8" font-weight="700" text-anchor="middle">Hakkaniyet İlkesine Aykırı</text>
+      </g>
+
+      <!-- Diagonal Corridor: Turkey-Libya Agreement -->
+      <path d="M 280 56 L 460 210 L 510 210 L 330 56 Z" fill="#0284c7" opacity="0.35" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4,4"/>
+      <text x="405" y="135" fill="#f0f9ff" font-size="11" font-weight="700" transform="rotate(-40 405 135)" text-anchor="middle">2019 TÜRKİYE-LİBYA DİYAGONAL MEB HATTI (BM 102 Tescilli)</text>
+
+      <!-- EastMed Cancelled Line -->
+      <path d="M 680 180 L 490 150 L 380 100 L 220 70" fill="none" stroke="#dc2626" stroke-width="3" stroke-dasharray="6,4"/>
+      <circle cx="490" cy="150" r="14" fill="#991b1b" stroke="#fff" stroke-width="1.5"/>
+      <text x="490" y="154" fill="#fff" font-size="11" font-weight="800" text-anchor="middle">✕</text>
+      <text x="530" y="185" fill="#fecaca" font-size="10" font-weight="700">EastMed Boru Hattı: İPTAL</text>
+      <text x="530" y="198" fill="#fca5a5" font-size="8.5">(ABD Non-Paper & Diyagonal Kesilme)</text>
+
+      <!-- Islands -->
+      <circle cx="580" cy="65" r="4" fill="#f59e0b"/>
+      <text x="580" y="80" fill="#fde68a" font-size="9" text-anchor="middle">Meis (2 km)</text>
+
+      <ellipse cx="380" cy="95" rx="28" ry="6" fill="#f59e0b"/>
+      <text x="380" y="112" fill="#fde68a" font-size="9" text-anchor="middle">Girit</text>
+
+      <circle cx="480" cy="75" r="8" fill="#f59e0b"/>
+      <text x="480" y="93" fill="#fde68a" font-size="9" text-anchor="middle">Rodos</text>
+    </svg>
+  </div>
+  <figcaption class="figure-caption">
+    <strong>Şekil 1:</strong> Doğu Akdeniz'de Çakışan Deniz Yetki Alanları Şeması: Sevilla Haritası Maksimalizmi, Türkiye-Libya 2019 Diyagonal MEB Sınırı (BM Şartı 102 Tescilli) ve EastMed Boru Hattının İptal Edilen Güzergahı. Kaynak: Yazar tarafından haritalandırılmıştır.
+  </figcaption>
+</figure>
 
 ### 4.1. "Eşit Uzaklık" (Equidistance) Dogmasına Karşı "Hakkaniyet" (Equity) İlkesi
 Yunanistan, 1982 tarihli Birleşmiş Milletler Deniz Hukuku Sözleşmesi'nin (UNCLOS) 121/2. maddesine dayanarak; üzerinde insan yaşayan veya ekonomik yaşamı olan tüm adaların, anakaralar gibi 12 mil karasuyu, 200 mil Münhasır Ekonomik Bölge (MEB) ve kıta sahanlığı hakkına sahip olduğunu iddia etmektedir. Yunanistan'a göre sınırlar, karşıt kıyılar arasındaki kesin "ortay hat" (median line) üzerinden çizilmelidir.
@@ -111,6 +162,11 @@ Türkiye ise UNCLOS'a taraf değildir; ancak uluslararası teamül hukukunun ba�
 - Doğal uzantı (natural prolongation) ilkesi.
 
 Uluslararası Adalet Divanı’nın (UAD) yerleşik içtihatları (1969 Kuzey Denizi Kıta Sahanlığı Davası, 1985 Libya-Malta Davası, 2009 Karadeniz Romanya-Ukrayna Yılan Adası Davası), adaların anakaraların önünü kestiği durumlarda "ortay hat" yönteminin otomatik olarak uygulanamayacağını, adaların "sıfır etki" veya "kısmi etki" (enclaving / partial effect) alacağını kesin olarak hükme bağlamıştır.
+
+<div class="callout-box danger">
+  <h5>⚖️ Sevilla Haritası İllüzyonu ve Coğrafi Gerçeklik</h5>
+  <p>Anadolu anakarasına sadece 2 kilometre mesafedeki 10 km²'lik Meis Adası'na 40.000 km² MEB alanı biçen Sevilla Haritası, uluslararası hukukun <em>"orantılılık ve kapatmama"</em> ilkelerini ayaklar altına almaktadır. Türkiye'nin Akdeniz'deki 1.792 km'lik kıyı uzunluğunu hiçe sayan bu harita, diplomatik olarak kadük kalmış ve ABD Dışişleri Bakanlığı tarafından da hukuki geçerliliği olmadığı resmi olarak teyit edilmiştir.</p>
+</div>
 
 ### 4.2. Meis (Kastellorizo) Adası ve "Sevilla Haritası" Garabeti
 Yunan tezlerinin en radikal örneği, Anadolu anakarasına (Kaş) yalnızca 2 kilometre uzaklıkta, ancak Yunan anakarasına 580 kilometre mesafede bulunan **10 kilometrekarelik Meis (Kastellorizo) Adası'dır.** 
@@ -131,6 +187,11 @@ Avrupa Birliği Komisyonu tarafından Sevilla Üniversitesi’ne sipariş edilen
 ### 5.1. EastMed Boru Hattı Projesi ve Taktiksel İflası
 2020 yılı başında Yunanistan, GKRY ve İsrail tarafından Atina'da imzalanan **EastMed Boru Hattı Projesi**, Levant gazını Kıbrıs ve Girit üzerinden Yunanistan'a, oradan da İtalya ve Avrupa pazarına taşımayı hedefleyen 1.900 kilometrelik bir su altı boru hattı tasarımıydı (Barry & Gambino, 2019).
 
+<div class="callout-box info">
+  <h5>📉 ABD "Non-Paper" Diplomatik Notası (Ocak 2022)</h5>
+  <p>ABD Dışişleri Bakanlığı, Ocak 2022'de Yunanistan, İsrail ve GKRY hükümetlerine ilettiği resmi gizli notayla (non-paper), EastMed boru hattına verilen siyasi ve finansal desteğin sonlandırıldığını bildirmiştir. Gerekçeler: 10 milyar doları aşan ticari fizibilite yoksunluğu, derin deniz fay hatlarının yarattığı sismik riskler ve Türkiye'nin Libya mutabakatı ile hat güzergahının jeopolitik olarak imkânsız hale gelmesidir.</p>
+</div>
+
 Proje başından itibaren ekonomik ve mühendislik gerçeklerinden ziyade, Türkiye'yi dışlamayı amaçlayan siyasi bir hamleydi:
 1.  **Mühendislik Zorluğu:** Akdeniz'in en derin (3.000 metreyi aşan) ve aktif fay hatlarıyla dolu sismik havzalarından geçmek zorundaydı.
 2.  **Maliyet:** Tahmini maliyeti 7-8 milyar dolar olarak öngörülse de, fiiliyatta 10 milyar doları aşacağı hesaplanıyordu; bu durum gazın birim maliyetini Rus veya LNG gazına kıyasla pazarlanamaz kılmaktaydı.
@@ -147,23 +208,13 @@ EastMed gaz hattının çökmesinin ardından Yunanistan ve GKRY, bu kez elektri
 
 2025-2026 dönemi, Doğu Akdeniz'deki diplomatik çıkmazın tarafları devasa bir silahlanma yarışına ve yeni coğrafi ittifaklara sürüklediği bir evre olmuştur.
 
-```
-+----------------------------------------------------------------------------------------------------+
-|                                    DOĞU AKDENİZ BLOKLAŞMA DİNAMİĞİ                                 |
-+------------------------------------+---------------------------------------------------------------+
-| BATI / LEVANT AKSI                 | TÜRKİYE / RİMLAND AKSI                                        |
-+------------------------------------+---------------------------------------------------------------+
-| • Yunanistan                       | • Türkiye                                                     |
-| • Güney Kıbrıs (GKRY)              | • Pakistan (Nükleer & Deniz Gücü)                             |
-| • İsrail                           | • Suudi Arabistan (Körfez Finansmanı & Lojistik)              |
-| • Destek: Fransa, ABD (Kısmi)      | • Saha Ortağı: Libya (Trablus)                                |
-+------------------------------------+---------------------------------------------------------------+
-| STRATEJİK HEDEFLER:                | STRATEJİK HEDEFLER:                                           |
-| - Sevilla Haritası Statükosu       | - Mavi Vatan Sınırlarının Tescili                             |
-| - Achilles Shield Hava Kalkanı     | - Yerli Donanma & Çelik Kubbe Entegrasyonu                    |
-| - Great Sea Interconnector         | - Doğu Akdeniz'de Çevrelemenin (Encirclement) Kırılması       |
-+------------------------------------+---------------------------------------------------------------+
-```
+| Bölgesel Güvenlik Parametresi | Batı / Levant İttifakı (Yunanistan–GKRY–İsrail) | Türkiye / Rimland İttifakı (Türkiye–Pakistan–Suudi) |
+| :--- | :--- | :--- |
+| **Çekirdek Üye Devletler** | Yunanistan, GKRY, İsrail (Dış Destek: Fransa, Kısmi ABD) | Türkiye, Pakistan, Suudi Arabistan (Saha Ortağı: Libya) |
+| **Temel Savunma Paktı** | **Achilles Shield (Aşil Kalkanı - 2026):** 3.6 Milyar $ bütçeli Demir Kubbe ve Arrow-3 Ege/Girit hava savunma ağı | **Mekke Savunma Paktı (2026):** Türk İHA/Donanma teknolojisi + Körfez likiditesi + Pakistan nükleer/deniz caydırıcılığı |
+| **Askeri Doktrin & Hedef** | Türkiye'nin Ege ve Akdeniz hava üstünlüğünü kırmak; Sevilla sınırlarını tahkim etmek | "Mavi Vatan" sahasında fiili deniz kontrolü (Sea Control); Levant kuşatmasını Rimland üzerinden kırmak |
+| **Enerji & Lojistik Koridoru** | Great Sea Interconnector (Girit-Kıbrıs denizaltı kablosu) | Kalkınma Yolu Projesi (Basra-Türkiye) & Doğu Akdeniz Doğrudan Boru Hattı |
+| **Taktiksel Zafiyetler** | Yüksek maliyet; Türkiye onay vermeden deniz tabanından kablo/boru geçirememe | Doğu Akdeniz'e doğrudan kıyısı olmayan müttefikler (Pakistan); donanma lojistik mesafesi |
 
 ### 6.1. Yunanistan–İsrail Askeri İttifakı ve "Achilles Shield" (2026)
 Yunanistan, Türkiye'nin son yıllarda geliştirdiği KIZILELMA, TB3, KAAN ve yerli balistik füze (Tayfun) kabiliyetlerine karşı hava üstünlüğünü kaybetme korkusuyla İsrail ile askeri entegrasyonunu en üst seviyeye taşımıştır.
@@ -180,6 +231,70 @@ Türkiye, Levant havzasında Batı destekli Yunan-İsrail ekseni tarafından kı
 1.  **Finans ve Sanayi Sentezi:** Suudi Arabistan’ın devasa likiditesi ile Türk savunma sanayiinin (İHA, fırkateyn, zırhlı araç, radar) ortak üretim platformlarında birleştirilmesini sağlamıştır.
 2.  **Stratejik Caydırıcılık:** Pakistan’ın nükleer güç statüsü ve donanma tecrübesi, Türkiye’nin Doğu Akdeniz ve Umman Denizi'ndeki caydırıcılığını asimetrik biçimde tahkim etmiştir.
 3.  **İsrail’in Dengelemesi:** Türkiye, İsrail'in Levant'taki tek taraflı operasyonlarına ve GKRY üzerindeki üs girişimlerine karşı; İsrail'in arka bahçesinde Suudi ve Pakistan unsurlarıyla ortak askeri tatbikatlar düzenleyerek diplomatik ve askeri bir "çevrelemeye karşı çevreleme" (counter-encirclement) manevrası gerçekleştirmiştir.
+
+<figure class="academic-figure">
+  <div class="figure-content">
+    <svg viewBox="0 0 820 250" xmlns="http://www.w3.org/2000/svg" style="font-family:'Inter', sans-serif;">
+      <defs>
+        <marker id="balance-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b"/>
+        </marker>
+        <filter id="shadow6" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+
+      <!-- Left Block: Greek-Israeli Axis -->
+      <g filter="url(#shadow6)">
+        <rect x="25" y="30" width="350" height="190" rx="8" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5"/>
+        <rect x="25" y="30" width="350" height="32" rx="8" fill="#312e81"/>
+        <text x="200" y="52" fill="#c7d2fe" font-size="12" font-weight="700" text-anchor="middle">BATI / LEVANT ÇEVRELEME EKSENİ</text>
+        
+        <text x="45" y="85" fill="#e0e7ff" font-size="11" font-weight="600">Aktörler:</text>
+        <text x="110" y="85" fill="#fff" font-size="11">Yunanistan + GKRY + İsrail (Fransa Destekli)</text>
+        
+        <text x="45" y="110" fill="#e0e7ff" font-size="11" font-weight="600">Doktrin:</text>
+        <text x="110" y="110" fill="#cbd5e1" font-size="10.5">Sevilla Haritası Statükosu & Doğu Akdeniz Gaz Forumu</text>
+
+        <rect x="40" y="125" width="320" height="42" rx="4" fill="#1e1b4b" stroke="#818cf8"/>
+        <text x="200" y="142" fill="#a5b4fc" font-size="10" font-weight="700" text-anchor="middle">2026 Askeri Tahkimat: "Achilles Shield"</text>
+        <text x="200" y="158" fill="#e0e7ff" font-size="9" text-anchor="middle">3.6 Milyar $ İsrail Demir Kubbe + Arrow-3 Ege Konuşlanması</text>
+
+        <rect x="40" y="175" width="320" height="32" rx="4" fill="rgba(239, 68, 68, 0.15)" stroke="#ef4444"/>
+        <text x="200" y="195" fill="#fca5a5" font-size="9.5" text-anchor="middle">Taktik Zafiyet: Türkiye onayı olmadan boru/kablo geçemez</text>
+      </g>
+
+      <!-- Center Balancing Arrow -->
+      <path d="M 385 125 L 435 125" stroke="#f59e0b" stroke-width="3" marker-end="url(#balance-arrow)"/>
+      <path d="M 435 135 L 385 135" stroke="#f59e0b" stroke-width="3" marker-end="url(#balance-arrow)"/>
+      <text x="410" y="110" fill="#f59e0b" font-size="9" font-weight="800" text-anchor="middle">TEHDİT</text>
+      <text x="410" y="158" fill="#f59e0b" font-size="9" font-weight="800" text-anchor="middle">DENGESİ</text>
+
+      <!-- Right Block: Turkey-Rimland Axis -->
+      <g filter="url(#shadow6)">
+        <rect x="445" y="30" width="350" height="190" rx="8" fill="#042f2e" stroke="#14b8a6" stroke-width="1.5"/>
+        <rect x="445" y="30" width="350" height="32" rx="8" fill="#115e59"/>
+        <text x="620" y="52" fill="#99f6e4" font-size="12" font-weight="700" text-anchor="middle">TÜRKİYE / RİMLAND DENGELEME EKSENİ</text>
+
+        <text x="465" y="85" fill="#ccfbf1" font-size="11" font-weight="600">Aktörler:</text>
+        <text x="530" y="85" fill="#fff" font-size="11">Türkiye + Pakistan + Suudi Arabistan + Libya</text>
+
+        <text x="465" y="110" fill="#ccfbf1" font-size="11" font-weight="600">Doktrin:</text>
+        <text x="530" y="110" fill="#cbd5e1" font-size="10.5">Mavi Vatan, Karşılıklı Kıyıdaşlık & Çelik Kubbe</text>
+
+        <rect x="460" y="125" width="320" height="42" rx="4" fill="#042f2e" stroke="#2dd4bf"/>
+        <text x="620" y="142" fill="#5eead4" font-size="10" font-weight="700" text-anchor="middle">2026 Askeri Tahkimat: "Mekke Savunma Paktı"</text>
+        <text x="620" y="158" fill="#f0fdfa" font-size="9" text-anchor="middle">TSK İHA/Donanma + Körfez Likiditesi + Pakistan Caydırıcılığı</text>
+
+        <rect x="460" y="175" width="320" height="32" rx="4" fill="rgba(20, 184, 166, 0.15)" stroke="#14b8a6"/>
+        <text x="620" y="195" fill="#99f6e4" font-size="9.5" text-anchor="middle">Stratejik Avantaj: Diyagonal Hat ile Akdeniz Koridoru Kontrolü</text>
+      </g>
+    </svg>
+  </div>
+  <figcaption class="figure-caption">
+    <strong>Şekil 2:</strong> Doğu Akdeniz Bölgesel Güvenlik ve İttifak Bloklaşması: Batı/Levant İttifakı (Achilles Shield) ile Türkiye/Rimland İttifakı (Mekke Savunma Paktı) Arasındaki Tehdit Dengesi Dinamikleri.
+  </figcaption>
+</figure>
 
 ---
 

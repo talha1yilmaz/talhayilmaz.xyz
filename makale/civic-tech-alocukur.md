@@ -53,20 +53,77 @@ Bu araştırma, nitel araştırma yöntemleri içerisinde yer alan **karşılaş
 
 Yerel yönetimlerde dijital yurttaş denetimini açıklamak için tek bir kuram yetersiz kalmaktadır. Bu çalışma, siyaset bilimi, ekonomi-politik ve kamu yönetiminin üç köklü kuramını yenilikçi bir sentezle bir araya getirmektedir.
 
-```
-                  +-------------------------------------------------------+
-                  |         CİVİC TECH KATILIMCI YÖNETİŞİM SACAYAĞI       |
-                  +-------------------------------------------------------+
-                                              |
-             +--------------------------------+-------------------------------+
-             |                                |                               |
-             v                                v                               v
-    Sherry Arnstein                   Albert O. Hirschman              Elinor Ostrom
- [Katılım Merdiveni]                [Çıkış, Ses ve Sadakat]         [Kentsel Müşterekler]
-  • Göstermelik Katılım (Tokenism)   • Yerel Tekel ve Çıkışsızlık    • Sokak/Altyapı = Müşterek
-  • Yurttaş Denetimi (Control)       • "Ses" Olarak Mobil Bildirim   • Birlikte Üretim (Co-production)
-  • İki Yönlü Müzakere               • Kurumsal Güven ve Sadakat     • Çok Merkezli Denetim
-```
+<figure class="academic-figure">
+  <div class="figure-content">
+    <svg viewBox="0 0 820 250" xmlns="http://www.w3.org/2000/svg" style="font-family:'Inter', sans-serif;">
+      <defs>
+        <linearGradient id="civic-g1" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0369a1"/>
+          <stop offset="100%" stop-color="#0284c7"/>
+        </linearGradient>
+        <linearGradient id="civic-g2" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0f766e"/>
+          <stop offset="100%" stop-color="#0d9488"/>
+        </linearGradient>
+        <linearGradient id="civic-g3" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#4f46e5"/>
+          <stop offset="100%" stop-color="#6366f1"/>
+        </linearGradient>
+        <filter id="shadow3" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.12"/>
+        </filter>
+      </defs>
+
+      <!-- Center Top Header Badge -->
+      <rect x="235" y="10" width="350" height="32" rx="16" fill="#1e293b"/>
+      <text x="410" y="31" fill="#38bdf8" font-size="12" font-weight="700" text-anchor="middle">CİVİC TECH KATILIMCI YÖNETİŞİM SACAYAĞI</text>
+
+      <!-- Connecting Lines -->
+      <path d="M 330 42 L 150 75" stroke="#94a3b8" stroke-width="2"/>
+      <path d="M 410 42 L 410 75" stroke="#94a3b8" stroke-width="2"/>
+      <path d="M 490 42 L 670 75" stroke="#94a3b8" stroke-width="2"/>
+
+      <!-- Pillar 1: Arnstein -->
+      <g filter="url(#shadow3)">
+        <rect x="35" y="75" width="230" height="155" rx="8" fill="url(#civic-g1)"/>
+        <text x="150" y="100" fill="#fff" font-size="13" font-weight="700" text-anchor="middle">Sherry Arnstein (1969)</text>
+        <text x="150" y="116" fill="#bae6fd" font-size="10" font-weight="600" text-anchor="middle">Katılım Merdiveni</text>
+        <line x1="50" y1="126" x2="250" y2="126" stroke="rgba(255,255,255,0.2)"/>
+        <text x="50" y="146" fill="#f8fafc" font-size="10.5">• Göstermelik Katılım (Tokenism)</text>
+        <text x="50" y="165" fill="#f8fafc" font-size="10.5">• Danışma ve Yatıştırma Tuzağı</text>
+        <text x="50" y="184" fill="#f8fafc" font-size="10.5">• Hedef: Yurttaş Denetimi</text>
+        <text x="50" y="203" fill="#f8fafc" font-size="10.5">• Karar Ortaklığı (Partnership)</text>
+      </g>
+
+      <!-- Pillar 2: Hirschman -->
+      <g filter="url(#shadow3)">
+        <rect x="295" y="75" width="230" height="155" rx="8" fill="url(#civic-g2)"/>
+        <text x="410" y="100" fill="#fff" font-size="13" font-weight="700" text-anchor="middle">Albert Hirschman (1970)</text>
+        <text x="410" y="116" fill="#a7f3d0" font-size="10" font-weight="600" text-anchor="middle">Çıkış, Ses ve Sadakat</text>
+        <line x1="310" y1="126" x2="510" y2="126" stroke="rgba(255,255,255,0.2)"/>
+        <text x="310" y="146" fill="#f8fafc" font-size="10.5">• Yerel Hizmetlerde "Çıkış Yok"</text>
+        <text x="310" y="165" fill="#f8fafc" font-size="10.5">• Çıkışsızlığa Çare: "Ses (Voice)"</text>
+        <text x="310" y="184" fill="#f8fafc" font-size="10.5">• Sıfır Maliyetli Mobil Şikayet</text>
+        <text x="310" y="203" fill="#f8fafc" font-size="10.5">• Çözülen Sorun = Yüksek Sadakat</text>
+      </g>
+
+      <!-- Pillar 3: Ostrom -->
+      <g filter="url(#shadow3)">
+        <rect x="555" y="75" width="230" height="155" rx="8" fill="url(#civic-g3)"/>
+        <text x="670" y="100" fill="#fff" font-size="13" font-weight="700" text-anchor="middle">Elinor Ostrom (1990)</text>
+        <text x="670" y="116" fill="#c7d2fe" font-size="10" font-weight="600" text-anchor="middle">Kentsel Müşterekler</text>
+        <line x1="570" y1="126" x2="770" y2="126" stroke="rgba(255,255,255,0.2)"/>
+        <text x="570" y="146" fill="#f8fafc" font-size="10.5">• Sokak ve Altyapı = Müşterek</text>
+        <text x="570" y="165" fill="#f8fafc" font-size="10.5">• Birlikte Üretim (Co-production)</text>
+        <text x="570" y="184" fill="#f8fafc" font-size="10.5">• Yurttaş = Aktif Gözlemci</text>
+        <text x="570" y="203" fill="#f8fafc" font-size="10.5">• Çok Merkezli Sivil Denetim</text>
+      </g>
+    </svg>
+  </div>
+  <figcaption class="figure-caption">
+    <strong>Şekil 1:</strong> Sivil Teknoloji (Civic Tech) ve Katılımcı Yönetişimin Kuramsal Sacayağı: Arnstein, Hirschman ve Ostrom Teorilerinin Entegrasyonu. Kaynak: Yazar tarafından tasarlanmıştır.
+  </figcaption>
+</figure>
 
 ### 3.1. Sherry Arnstein: Katılım Merdiveni ve Göstermelik Katılım (Tokenism) Tuzağı
 Sherry Arnstein’ın (1969) öncü makalesinde geliştirdiği "Yurttaş Katılımı Merdiveni", katılım söyleminin arkasındaki güç dinamiklerini 8 basamakta özetler:
@@ -95,29 +152,18 @@ Modern kent sosyolojisinde sokaklar, kaldırımlar, meydanlar ve kamusal altyap�
 
 Aşağıdaki analitik matris, incelenen dört farklı modelin yönetsel felsefesini, teknik altyapısını ve demokratik derinliğini özetlemektedir:
 
-```
-+-------------------------------------------------------------------------------------------------------------------------+
-|                                    CİVİC TECH VE ŞİKAYET SİSTEMLERİ KARŞILAŞTIRMA MATRİSİ                               |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Kriter               | FixMyStreet (UK)   | SeeClickFix (ABD)   | İBB Çözüm Merkezi (TR) | CİMER (Türkiye)              |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Mülkiyet / Aktör     | Bağımsız STK       | Özel Şirket (SaaS)  | Büyükşehir Belediyesi  | Cumhurbaşkanlığı (Merkezi)   |
-|                      | (mySociety)        | Kamu Sözleşmeli     | Kamu Kurumu            | Doğrudan İdari Vesayet       |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Veri Şeffaflığı      | Tamamen Açık       | Kamuya Açık         | Kısmen Kapalı          | Tamamen Gizli                |
-| (Public Visibility)  | Herkes tüm şikayet-| Harita üzerinden    | Sadece başvuran kendi  | Başvuran ve kurum hariç     |
-|                      | leri haritada görür| kamuya açık izleme  | dosyasını takip eder   | üçüncü kişilere kapalı       |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Teknik Standart      | Açık Kaynak / API  | Open311 Uyumlu      | Tescilli Kurumsal CRM  | Tescilli Devlet Yazılımı     |
-|                      | Veri seti indirilir| Şehir ERP entegre   | Mobil Uygulama / AI    | Güvenlik/İstihbarat Entegre  |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Arnstein Basamağı    | 6. Ortaklık        | 5. Yatıştırma /     | 4. Danışma /           | 3. Bilgilendirme /           |
-|                      | (Yurttaş Gücü)     | 6. Ortaklık         | 5. Yatıştırma          | İdari Denetim (Vesayet)      |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-| Başvuru Karakteri    | Kolektif / Kamusal | Kolektif / Kamusal  | Bireysel / Müşteri     | Bireysel / Şikayet-İhbar     |
-|                      | Sivil Denetim      | Topluluk Odaklı     | Odaklı ("Beyaz Masa")  | Hiyerarşik Teftiş            |
-+----------------------+--------------------+---------------------+------------------------+------------------------------+
-```
+| Değerlendirme Kriteri | FixMyStreet (Birleşik Krallık) | SeeClickFix (ABD) | İBB Çözüm Merkezi (Türkiye) | CİMER (Türkiye) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mülkiyet ve Aktör Yapısı** | Bağımsız Sivil Toplum (mySociety) | Özel Şirket (SaaS Modeli / Kamu Tedarik) | Büyükşehir Belediyesi (Doğrudan Kamu) | T.C. Cumhurbaşkanlığı (Merkezi İdare) |
+| **Veri Şeffaflığı ve Görünürlük** | **Tamamen Açık:** Tüm bildirimler, harita konumları ve fotoğraflar kamuya açıktır | **Kamuya Açık:** Harita üzerinden mahalleli tüm sorunları ve statüleri izleyebilir | **Kapalı / Bireysel:** Sadece başvuran yurttaş kendi talebinin durumunu görebilir | **Tamamen Gizli:** Başvuran ve kamu kurumu harici üçüncü kişilere ve haritaya kapalıdır |
+| **Teknik Protokol & API** | Açık Kaynak Kodlu / Açık API / Veri seti indirilebilir | Open311 Standartları Uyumlu / Belediye ERP entegre | Tescilli Kurumsal CRM / Mobil Uygulama / Dahili AI | Tescilli Devlet Yazılımı / Güvenlik ve E-Devlet entegre |
+| **Arnstein Katılım Düzeyi** | **6. Basamak: Ortaklık** (Yurttaş Denetimi) | **5. Basamak: Yatıştırma** / 6. Basamak: Ortaklık | **4. Basamak: Danışma** / 5. Basamak: Yatıştırma | **3. Basamak: Bilgilendirme** / İdari Teftiş |
+| **Yönetişim ve Katılım Karakteri** | Kolektif, kamusal sivil denetim ve açık kentsel hesap verebilirlik | Topluluk odaklı, oylama (upvote) destekli belediye iş akışı | Müşteri odaklı çağrı merkezi mantığı ("Beyaz Masa") | Dikey, hiyerarşik ve bürokratik vesayet denetimi |
+
+<div class="callout-box info">
+  <h5>💡 Karşılaştırmalı Analiz Bulgusu: "Radikal Şeffaflık" Farkı</h5>
+  <p>İngiltere'deki <strong>FixMyStreet</strong> platformunda bir çukur bildirildiğinde, bu veri anında kamusal haritada kırmızı bir nokta olarak belirir. Belediye ekipleri tamiratı bitirdiğinde fotoğraf yükler ve mahalle sakinleri <em>"Evet, düzgün yapıldı"</em> onayı vermeden bildirim yeşile dönmez. Buna karşılık <strong>İBB Çözüm Merkezi</strong>'nde şikayet idarenin kapalı veri tabanında kalır; bu durum mükerrer bildirimlere ve kamuoyu baskısının oluşamamasına yol açar.</p>
+</div>
 
 ### 4.1. Birleşik Krallık: FixMyStreet ve Sivil Toplum Bağımsızlığı
 2007 yılında İngiltere merkezli *mySociety* adlı sivil toplum kuruluşu tarafından kurulan **FixMyStreet**, dünyada sivil teknolojinin kurucu anıtı sayılmaktadır.
@@ -173,6 +219,82 @@ Literatürdeki en kritik tartışma, yapay zekânın kamu kaynaklarını dağıt
    Bir arıza giderildiğinde dosya memurun masasında tek taraflı olarak "kapatıldı" yapılamamalıdır. Sistem, bildirimi yapan yurttaşa ve o sokakta yaşayan komşulara "Arıza gerçekten giderildi mi?" bildirimi göndermeli; yurttaş onaylamadan dosya sistemde tamamlanmış sayılmamalıdır (Arnstein merdiveninde ortaklık ilkesi).
 4. **Mahalle Meclisleri ve Katılımcı Bütçe Entegrasyonu:**  
    Sivil teknoloji verileri sadece fen işleri ekiplerinin tamirat listesi olarak kalmamalı; yıl sonunda mahalle meclislerinin önüne gelmelidir. Bir mahallede en çok hangi altyapı sorununun yaşandığı açık veriyle kanıtlandığında, belediyenin katılımcı bütçesi doğrudan bu sorunların yapısal çözümüne tahsis edilmelidir.
+
+<figure class="academic-figure">
+  <div class="figure-content">
+    <svg viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg" style="font-family:'Inter', sans-serif;">
+      <defs>
+        <marker id="blue-arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0284c7"/>
+        </marker>
+        <filter id="shadow4" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="3" stdDeviation="3" flood-opacity="0.1"/>
+        </filter>
+      </defs>
+
+      <!-- Step 1: Yurttas Bildirimi -->
+      <g filter="url(#shadow4)">
+        <rect x="20" y="30" width="165" height="130" rx="8" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.5"/>
+        <circle cx="102" cy="55" r="16" fill="#0284c7"/>
+        <text x="102" y="60" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">1</text>
+        <text x="102" y="90" fill="#0369a1" font-size="12" font-weight="700" text-anchor="middle">Mobil Bildirim</text>
+        <text x="102" y="110" fill="#64748b" font-size="9.5" text-anchor="middle">Fotoğraf + GPS Konum</text>
+        <text x="102" y="125" fill="#64748b" font-size="9.5" text-anchor="middle">Sorun Tespiti</text>
+        <rect x="35" y="135" width="135" height="16" rx="3" fill="#e0f2fe"/>
+        <text x="102" y="146" fill="#0369a1" font-size="8.5" font-weight="600" text-anchor="middle">Sıfır Maliyetli "Ses"</text>
+      </g>
+
+      <path d="M 188 95 L 222 95" stroke="#0284c7" stroke-width="2.5" marker-end="url(#blue-arrow)"/>
+
+      <!-- Step 2: Açık Veri Haritası -->
+      <g filter="url(#shadow4)">
+        <rect x="225" y="30" width="165" height="130" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+        <circle cx="307" cy="55" r="16" fill="#16a34a"/>
+        <text x="307" y="60" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">2</text>
+        <text x="307" y="90" fill="#15803d" font-size="12" font-weight="700" text-anchor="middle">Açık Veri Haritası</text>
+        <text x="307" y="110" fill="#64748b" font-size="9.5" text-anchor="middle">Kamusal Görünürlük</text>
+        <text x="307" y="125" fill="#64748b" font-size="9.5" text-anchor="middle">Mükerrerlik Önleme</text>
+        <rect x="240" y="135" width="135" height="16" rx="3" fill="#dcfce7"/>
+        <text x="307" y="146" fill="#15803d" font-size="8.5" font-weight="600" text-anchor="middle">Radikal Şeffaflık</text>
+      </g>
+
+      <path d="M 393 95 L 427 95" stroke="#0284c7" stroke-width="2.5" marker-end="url(#blue-arrow)"/>
+
+      <!-- Step 3: Belediye İcraatı & NLP Triyaj -->
+      <g filter="url(#shadow4)">
+        <rect x="430" y="30" width="165" height="130" rx="8" fill="#fefce8" stroke="#ca8a04" stroke-width="1.5"/>
+        <circle cx="512" cy="55" r="16" fill="#ca8a04"/>
+        <text x="512" y="60" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">3</text>
+        <text x="512" y="90" fill="#a16207" font-size="12" font-weight="700" text-anchor="middle">Belediye İcraatı</text>
+        <text x="512" y="110" fill="#64748b" font-size="9.5" text-anchor="middle">NLP Adil Önceliklendirme</text>
+        <text x="512" y="125" fill="#64748b" font-size="9.5" text-anchor="middle">Saha Ekibi Müdahalesi</text>
+        <rect x="445" y="135" width="135" height="16" rx="3" fill="#fef9c3"/>
+        <text x="512" y="146" fill="#a16207" font-size="8.5" font-weight="600" text-anchor="middle">Hızlı Tamirat & Kanıt</text>
+      </g>
+
+      <path d="M 598 95 L 632 95" stroke="#0284c7" stroke-width="2.5" marker-end="url(#blue-arrow)"/>
+
+      <!-- Step 4: Yurttas Eş-Doğrulaması -->
+      <g filter="url(#shadow4)">
+        <rect x="635" y="30" width="165" height="130" rx="8" fill="#faf5ff" stroke="#7c3aed" stroke-width="1.5"/>
+        <circle cx="717" cy="55" r="16" fill="#7c3aed"/>
+        <text x="717" y="60" fill="#fff" font-size="12" font-weight="700" text-anchor="middle">4</text>
+        <text x="717" y="90" fill="#6d28d9" font-size="12" font-weight="700" text-anchor="middle">Eş-Doğrulama</text>
+        <text x="717" y="110" fill="#64748b" font-size="9.5" text-anchor="middle">Yurttaş Onayı (Peer-Review)</text>
+        <text x="717" y="125" fill="#64748b" font-size="9.5" text-anchor="middle">Katılımcı Bütçe Verisi</text>
+        <rect x="650" y="135" width="135" height="16" rx="3" fill="#ede9fe"/>
+        <text x="717" y="146" fill="#6d28d9" font-size="8.5" font-weight="600" text-anchor="middle">Ostromcu Müşterekler</text>
+      </g>
+
+      <!-- Bottom Loop Arrow -->
+      <path d="M 717 165 C 717 205, 102 205, 102 165" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#blue-arrow)"/>
+      <text x="410" y="195" fill="#64748b" font-size="10" font-weight="600" text-anchor="middle">Sürekli Demokratik Geri Bildirim ve Hesap Verebilirlik Döngüsü</text>
+    </svg>
+  </div>
+  <figcaption class="figure-caption">
+    <strong>Şekil 2:</strong> İdeal Sivil Teknoloji Kapalı Devre Yönetişim Modeli: Bildirimden Açık Veri Haritalamasına, Belediye İcraatından Yurttaş Eş-Doğrulamasına (Peer-Verification) ve Katılımcı Bütçeye Uzanan Döngü.
+  </figcaption>
+</figure>
 
 ---
 
