@@ -1,0 +1,54 @@
+{
+  "name": "talhayilmaz.xyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "python build_full_site.py",
+    "build:html": "tsx scripts/build.tsx",
+    "build:admin": "vite build --config vite.admin.ts",
+    "dev:admin": "vite --config vite.admin.ts",
+    "dev:worker": "wrangler dev --port 8787",
+    "types": "wrangler types",
+    "check": "tsc --noEmit && tsc -p tsconfig.worker.json --noEmit",
+    "test": "vitest run",
+    "deploy:admin": "npm run build:admin && wrangler deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talha1yilmaz/talhayilmaz.xyz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/talha1yilmaz/talhayilmaz.xyz/issues"
+  },
+  "homepage": "https://github.com/talha1yilmaz/talhayilmaz.xyz#readme",
+  "dependencies": {
+    "dompurify": "^3.4.16",
+    "jose": "^6.2.12",
+    "lucide-react": "^1.48.0",
+    "marked": "^18.0.14",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sanitize-html": "^2.17.7",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260924.1",
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.0",
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/sanitize-html": "^2.16.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.1",
+    "wrangler": "^4.138.0"
+  },
+  "private": true
+}
