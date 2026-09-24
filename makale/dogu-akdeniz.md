@@ -1,0 +1,79 @@
+# Doğu Akdeniz ve Levant'ta Değişen Güç Dengeleri: Yunanistan–İsrail İttifakına Karşı Türkiye–Pakistan–Suudi Arabistan Jeopolitik Ekseni
+
+**Yazar:** Talha Nuri Yılmaz
+
+## Öz
+
+Doğu Akdeniz ve Levant bölgesi, 21. yüzyılın başından itibaren enerji kaynaklarının keşfi, deniz yetki alanları uyuşmazlıkları ve bölgesel aktörlerin hegemonya mücadeleleri ekseninde küresel jeopolitiğin en dinamik fay hatlarından biri haline gelmiştir. Bu çalışma, bölgede meydana gelen jeopolitik kırılmaları ve ittifak oluşumlarını, uluslararası ilişkiler disiplininin temel teorik yaklaşımları olan saldırgan gerçekçilik ve tehdit dengesi kuramları çerçevesinde incelemektedir. Çalışmanın temel sorunsalı, Yunanistan ve İsrail arasında derinleşen stratejik ve enerji odaklı işbirliğinin, bölgenin bir diğer kritik aktörü olan Türkiye'yi nasıl bir karşı dengeleme stratejisine yönelttiğidir. Bu bağlamda, Türkiye'nin Mavi Vatan doktrini ile denizlerdeki hak ve menfaatlerini koruma çabası, sadece hukuki bir argümantasyon değil, aynı zamanda jeopolitik bir genişleme ve güç maksimizasyonu aracı olarak analiz edilmektedir. Yunanistan-İsrail ittifakının EastMed boru hattı projesi gibi taktiksel hamlelerine karşılık, Türkiye'nin Suudi Arabistan ve Pakistan gibi bölge içi ve bölge dışı aktörlerle yeni bir jeopolitik eksen inşa etme gayretleri, tehdit dengesi perspektifiyle açıklanmaktadır. Araştırma, Doğu Akdeniz'deki enerji ve güvenlik denkleminin salt yerel bir uyuşmazlık olmaktan çıkarak, çok kutuplu dünya düzeninde orta ölçekli güçlerin stratejik otonomi arayışlarının bir yansıması olduğunu savunmaktadır. Sonuç olarak, bölgedeki ittifak yapılarının akışkan doğası ve enerji jeopolitiğinin belirleyiciliği, Doğu Akdeniz'i önümüzdeki yıllarda da kriz ve işbirliği potansiyellerini bir arada barındıran bir "büyük oyun" sahnesi kılmaya devam edecektir.
+
+**Anahtar Kelimeler:** Doğu Akdeniz, Jeopolitik, Saldırgan Gerçekçilik, Tehdit Dengesi, Mavi Vatan, EastMed, İttifaklar.
+
+---
+
+## 1. Giriş
+
+Doğu Akdeniz, tarihsel süreç boyunca kıtaları birbirine bağlayan stratejik konumu nedeniyle büyük güçlerin rekabet alanlarından biri olmuştur. Ancak son yirmi yılda bölgede keşfedilen devasa hidrokarbon rezervleri, bu rekabetin doğasını temelden değiştirmiş ve bölgesel aktörleri daha önce benzeri görülmemiş bir jeopolitik mücadelenin içine çekmiştir. Hidrokarbon kaynaklarının Avrupa pazarlarına ulaştırılması hedefi, bölge devletleri arasında bir yandan yeni işbirliği mekanizmalarının kurulmasına zemin hazırlarken, diğer yandan mevcut siyasi ve hukuki uyuşmazlıkların derinleşmesine neden olmuştur (Kavaz, 2021). 
+
+Bu bağlamda, deniz yetki alanlarının sınırlandırılması meselesi, enerji denkleminin merkezine yerleşmiştir. Türkiye ve Yunanistan arasında Ege Denizi'nde kökleri olan uyuşmazlıklar, Doğu Akdeniz'in geniş sularına taşınmış ve Kıbrıs meselesinin de eklemlenmesiyle çok boyutlu bir kriz halini almıştır (Başeren, 2010). Bölgedeki bu gerilimli atmosfer, devletlerin güvenlik algılarını dönüştürmüş ve yeni ittifakların filizlenmesine yol açmıştır. Özellikle İsrail'in doğal gaz keşifleri sonrasında Yunanistan ve Güney Kıbrıs Rum Yönetimi (GKRY) ile geliştirdiği stratejik ortaklık, bölgedeki güç dengesini Türkiye aleyhine değiştirme potansiyeli taşımaktadır (Tziampiris, 2015).
+
+Bu makale, Doğu Akdeniz ve Levant bölgesindeki bu değişen ittifak yapılarını ve güvenlik denklemini incelemeyi amaçlamaktadır. Yunanistan-İsrail ekseninin yarattığı stratejik kuşatmaya karşı Türkiye'nin Mavi Vatan doktrini çerçevesindeki reaktif ve proaktif adımları ile Pakistan ve Suudi Arabistan gibi aktörlerle geliştirmeye çalıştığı karşı dengeleme (balancing) stratejileri, teorik bir zeminde analiz edilecektir.
+
+## 2. Kuramsal Çerçeve
+
+Doğu Akdeniz'de devletlerin sergilediği davranış örüntülerini ve ittifak arayışlarını anlamlandırmak için uluslararası ilişkiler teorilerinin sunduğu kavramsal araçlar elzemdir. Bu çalışmada, analiz temel olarak iki kuramsal sütun üzerine inşa edilmiştir: John Mearsheimer'ın saldırgan gerçekçilik (offensive realism) kuramı ve Stephen Walt'un tehdit dengesi (balance of threat) yaklaşımı. Ayrıca, jeopolitik teorinin temel taşlarından biri olan Nicholas Spykman'ın kenar kuşak (rimland) kavramı da bölgesel dinamiklerin mekânsal analizine katkı sunacaktır.
+
+Mearsheimer (2001), uluslararası sistemin anarşik doğasının devletleri hayatta kalabilmek için sürekli olarak güç maksimizasyonuna ittiğini öne sürer. Saldırgan gerçekçilik perspektifinden bakıldığında, devletler güvenliklerini garanti altına almanın tek yolunun sistemdeki en güçlü aktör (hegemon) olmaktan geçtiğine inanırlar. Doğu Akdeniz özelinde, Türkiye, Yunanistan ve İsrail gibi aktörlerin deniz yetki alanlarını genişletme, enerji kaynakları üzerinde kontrol sağlama ve askeri kapasitelerini artırma çabaları, statükoyu korumaktan ziyade güçlerini maksimize ederek bölgesel hegemonya veya en azından stratejik üstünlük kurma arzularının bir tezahürüdür.
+
+Öte yandan, devletlerin neden belirli ittifaklara yöneldiğini açıklamak için Walt (1987) tarafından geliştirilen tehdit dengesi kuramı son derece açıklayıcıdır. Walt'a göre devletler, sadece güce karşı değil, asıl olarak "tehdide" karşı dengeleme yaparlar. Bir devletin tehdit algısı; diğer devletin toplam gücü, coğrafi yakınlığı, saldırgan kapasitesi ve saldırgan niyetlerine bağlı olarak şekillenir. İsrail ve Yunanistan'ın Türkiye'nin bölgesel askeri kapasitesini ve revizyonist olarak algıladıkları dış politikasını bir tehdit olarak görmeleri, bu iki aktörü birbirine yakınlaştırmıştır. Buna mukabil Türkiye de, bu yeni bloklaşmanın yarattığı kuşatılmışlık hissini kırmak ve algıladığı tehdidi dengelemek adına Suudi Arabistan ve Pakistan gibi geleneksel müttefikleriyle ilişkilerini yeni bir jeopolitik eksene oturtmaya çabalamaktadır.
+
+Son olarak, Spykman'ın (1942) jeopolitik teorisinde vurguladığı gibi, Avrasya'nın kenar kuşağını (rimland) kontrol eden dünya dengelerini de etkiler. Doğu Akdeniz ve Levant, tam da bu kritik kenar kuşağın en hayati düğüm noktalarından birini oluşturmaktadır. Bu alandaki deniz yollarının ve enerji koridorlarının kontrolü, küresel güç siyasetinin ayrılmaz bir parçasıdır.
+
+## 3. Ana Analiz ve Vaka İncelemesi
+
+### 3.1. Yunanistan-İsrail İttifakı ve EastMed'in Taktiksel Boyutu
+
+Arap Baharı'nın ardından Ortadoğu'da değişen statüko ve Türkiye-İsrail ilişkilerinde yaşanan siyasi krizler, İsrail'i Doğu Akdeniz'de yeni stratejik ortaklıklar aramaya itmiştir. Tamar ve Leviathan sahalarında keşfedilen doğal gazın Avrupa'ya güvenli bir şekilde aktarılması ihtiyacı, Yunanistan ve GKRY'yi İsrail için doğal müttefikler haline getirmiştir. Tziampiris (2015), İsrail-Yunanistan işbirliğinin salt enerjiden ibaret olmadığını, aynı zamanda askeri tatbikatlar, istihbarat paylaşımı ve diplomatik dayanışmayı içeren kapsamlı bir stratejik ortaklığa dönüştüğünü belirtmektedir.
+
+Bu ittifakın en somut jeopolitik projesi ise EastMed (Doğu Akdeniz) boru hattı olmuştur. Proje, İsrail gazını Kıbrıs ve Girit üzerinden Yunanistan'a ve oradan da İtalya'ya taşımayı hedeflemiştir. Ancak Barry ve Gambino'nun (2019) ifade ettiği gibi, boru hatları sadece ekonomik veya teknik altyapılar değil, aynı zamanda uluslararası ilişkilerde taktiksel noktaları ve güç projeksiyonlarını temsil eden "subaquatic" (su altı) jeopolitik enstrümanlardır. EastMed, teknik ve ekonomik zorluklarına rağmen, siyasi bir araç olarak Türkiye'yi Doğu Akdeniz enerji denkleminden dışlama ve Yunanistan-Kıbrıs-İsrail eksenini kurumsallaştırma işlevi görmüştür. Bu durum, Walt'un (1987) ittifakların ortak bir dış tehdide (bu vakada Türkiye'nin artan kapasitesi ve deniz iddialarına) karşı şekillendiği tezini doğrulamaktadır.
+
+### 3.2. Türkiye'nin Güç Maksimizasyonu: Mavi Vatan Doktrini
+
+Yunanistan ve İsrail ekseninin Doğu Akdeniz'de oluşturduğu fiili duruma karşı Türkiye, Mearsheimer'ın (2001) öngördüğü şekilde hayatta kalma ve güç maksimizasyonu refleksleriyle hareket etmiş ve "Mavi Vatan" doktrinini devreye sokmuştur. Mavi Vatan, başlangıçta bir denizcilik kavramı olarak ortaya çıksa da zamanla Türkiye'nin Karadeniz, Ege ve Doğu Akdeniz'deki deniz yetki alanlarını, ekonomik haklarını ve güvenlik çıkarlarını savunan kapsamlı bir jeopolitik vizyona evrilmiştir.
+
+Jagielski (2026), Mavi Vatan'ın sadece bir savunma stratejisi değil, aynı zamanda Türkiye'nin jeopolitik genişlemesinin bir enstrümanı olduğunu vurgular. Türkiye, Antalya Körfezi'ne hapsedilme senaryolarını reddederek, Libya ile imzaladığı Deniz Yetki Alanlarının Sınırlandırılması Mutabakat Muhtırası (2019) ile Yunanistan ve GKRY'nin Doğu Akdeniz'deki münhasır ekonomik bölge (MEB) iddialarını kesintiye uğratmıştır (Başeren, 2010). Bu hamle, Türkiye'nin sismik araştırma ve sondaj gemilerini donanma eşliğinde tartışmalı sulara göndermesiyle desteklenmiş, böylece söylemsel doktrin sahada askeri güç (hard power) ile tahkim edilmiştir. Bu durum, denizlerde statükoyu kendi lehine değiştirme çabası olarak saldırgan gerçekçilik merceğinden net bir biçimde okunabilir.
+
+### 3.3. Yeni Bir Karşı Dengeleme: Türkiye–Pakistan–Suudi Arabistan Ekseni
+
+Doğu Akdeniz'de Fransa, ABD ve AB'nin de diplomatik ve askeri olarak Yunanistan-İsrail eksenine meyil etmesi, Türkiye'nin tehdit algısını derinleştirmiştir. Walt'un (1987) tehdit dengesi teorisi, dışlanmış veya kuşatılmış hisseden devletlerin asimetrik ittifaklarla dengeleme (balancing) yapacağını öngörür. Bu bağlamda Türkiye, Doğu Akdeniz'deki izolasyonunu kırmak için daha geniş bir coğrafyada, Levant'tan Hint Okyanusu'na uzanan yeni bir eksen arayışına girmiştir.
+
+Suudi Arabistan ile son yıllarda gerçekleşen normalleşme süreci ve ikili ilişkilerin stratejik bir boyuta taşınması, Türkiye'nin Ortadoğu'daki diplomatik manevra alanını genişletmiştir. Körfez sermayesinin Türkiye ekonomisine entegrasyonu ve savunma sanayii işbirlikleri, iki bölgesel gücün İran'ın yayılmacılığı ve diğer bölgesel krizlerde ortak paydada buluşmasını sağlamıştır.
+
+Buna ek olarak, Türkiye ile Pakistan arasındaki geleneksel kardeşlik ilişkileri, deniz kuvvetleri düzeyinde stratejik bir ortaklığa dönüşmektedir. MİLGEM projesi kapsamında Pakistan'a inşa edilen korvetler ve iki ülkenin Doğu Akdeniz ve Arap Denizi'nde gerçekleştirdiği ortak askeri tatbikatlar, Türkiye'nin jeopolitik ufkunu Spykman'ın (1942) altını çizdiği kenar kuşak (rimland) boyunca genişletmektedir. Türkiye-Pakistan-Suudi Arabistan üçgenindeki bu yakınlaşma henüz kurumsal bir ittifak antlaşması seviyesinde olmasa da, Yunanistan-İsrail-GKRY bloğuna karşı diplomatik ve askeri bir caydırıcılık (deterrence) mesajı taşımaktadır. Bu esnek koalisyon, Türkiye'nin çok boyutlu dış politika anlayışının ve bölgesel izolasyonu kırma stratejisinin doğrudan bir sonucudur.
+
+## 4. Sonuç ve Değerlendirme
+
+Doğu Akdeniz ve Levant, enerji kaynaklarının çıkarılması ve nakli etrafında şekillenen modern bir güç mücadelesinin merkez üssüdür. Araştırma göstermektedir ki, Yunanistan ve İsrail arasındaki stratejik yakınlaşma, sadece ekonomik çıkarlarla değil, Walt'un (1987) tehdit dengesi kuramıyla açıklanabilecek güvenlik kaygılarıyla örülmüştür. EastMed boru hattı gibi projeler, bölgedeki jeopolitik hatları (Barry & Gambino, 2019) somutlaştıran araçlar olarak kullanılmıştır.
+
+Buna karşın Türkiye, Mearsheimer'ın (2001) saldırgan gerçekçilik paradigmasına uygun bir biçimde, kapasitesini artırarak ve "Mavi Vatan" doktrini (Jagielski, 2026) ile proaktif bir siyaset izleyerek bu kuşatmayı yarmaya çalışmıştır. Uluslararası hukukun sunduğu araçları diplomatik manevralarla birleştiren Türkiye (Başeren, 2010), Doğu Akdeniz'deki varlığını kalıcılaştırmayı hedeflemektedir.
+
+Bölgedeki güç dengeleri statik değildir. Türkiye'nin Yunanistan-İsrail ittifakına karşı Suudi Arabistan ve Pakistan gibi aktörleri angaje ederek geniş çaplı bir jeopolitik eksen inşa etme çabası, Doğu Akdeniz'deki krizin salt bölgesel bir mesele olmaktan çıkarak geniş bir coğrafi alana yayıldığını göstermektedir (Spykman, 1942). Nihayetinde, enerji denkleminin (Kavaz, 2021) ve güvenlik algılarının belirlediği bu çok katmanlı yapı, aktörlerin esnek ittifaklar kurmasını ve güç projeksiyonlarını sürdürmesini zorunlu kılmaktadır. Doğu Akdeniz'de kalıcı bir istikrarın sağlanması, ancak tarafların "sıfır toplamlı" (zero-sum) oyun anlayışından uzaklaşarak, kaynakların adça paylaşımını ve tüm bölgesel aktörlerin dahil edildiği kapsayıcı mekanizmaların kurulmasını gerektirmektedir.
+
+---
+
+## Kaynakça
+
+Barry, A., & Gambino, E. (2019). Pipeline Geopolitics: Subaquatic Materials and the Tactical Point. *Environment and Planning C: Politics and Space*, 38(1), 109-127.
+
+Başeren, S. H. (2010). *Doğu Akdeniz'de Deniz Yetki Alanları Uyuşmazlığı*. Türk Deniz Araştırmaları Vakfı (TÜDAV).
+
+Jagielski, K. (2026). Mavi Vatan as an instrument of Turkey's geopolitical expansion. *Journal of Geopolitical Studies*, 12(3), 45-67.
+
+Kavaz, İ. (2021). The Energy Equation in the Eastern Mediterranean. *Insight Turkey*, 23(1), 75-92.
+
+Mearsheimer, J. J. (2001). *The Tragedy of Great Power Politics*. W. W. Norton & Company.
+
+Spykman, N. J. (1942). *America's Strategy in World Politics: The United States and the Balance of Power*. Harcourt, Brace and Company.
+
+Tziampiris, A. (2015). *The Emergence of Israeli-Greek Cooperation*. Springer.
+
+Walt, S. M. (1987). *The Origins of Alliances*. Cornell University Press.
