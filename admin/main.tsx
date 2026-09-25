@@ -4,6 +4,7 @@ import {renderToStaticMarkup} from 'react-dom/server';
 import {LayoutDashboard,FileText,Layers,Folder,User,Image,History,ExternalLink,Save,Send,Plus,ArrowUp,ArrowDown,Trash2,Monitor,Smartphone,Table,Heading2,Bold,Link as LinkIcon,LogOut,Download,Check,RefreshCw} from 'lucide-react';
 import {Site} from '../shared/Site';
 import {SiteData,categories,siteSchema} from '../shared/model';
+import {ZodError} from 'zod';
 import siteCSS from '../shared/site.css?inline';
 import './style.css';
 
@@ -19,7 +20,7 @@ function App(){
  useEffect(()=>{const warn=(e:BeforeUnloadEvent)=>{if(dirty){e.preventDefault();e.returnValue=''}};window.addEventListener('beforeunload',warn);return()=>window.removeEventListener('beforeunload',warn)},[dirty]);
  useEffect(()=>{if(!jobs.some(j=>['queued','building'].includes(j.status)))return;const interval=setInterval(()=>api<Job[]>('publications').then(setJobs).catch(e=>setError(e.message)),7000);return()=>clearInterval(interval)},[jobs]);
  function update(fn:(next:SiteData)=>void){if(!data)return;const next=structuredClone(data);fn(next);setData(next);setDirty(true);setNotice('')}
- async function run(label:string,fn:()=>Promise<void>){setBusy(label);setError('');setNotice('');try{await fn()}catch(e){setError(e instanceof Error?e.message:'İşlem tamamlanamadı.')}finally{setBusy('')}}
+ async function run(label:string,fn:()=>Promise<void>){setBusy(label);setError('');setNotice('');try{await fn()}catch(e){setError(e instanceof ZodError?e.issues.map(issue=>issue.message).join(' · '):e instanceof Error?e.message:'İşlem tamamlanamadı.')}finally{setBusy('')}}
  async function save(){if(!data)return revision;siteSchema.parse(data);const saved=await api<{revision:number}>('site','PUT',{revision,data});setRevision(saved.revision);setDirty(false);setNotice('Taslak kaydedildi. Canlı site henüz değişmedi.');return saved.revision;}
  function navigate(next:View){setView(next);setSelected(0);setPreview(false);setError('');if(next==='media')api<Media[]>('media').then(setMedia).catch(e=>setError(e.message));if(next==='history')api<typeof history>('history').then(setHistory).catch(e=>setError(e.message));}
  function exportDraft(){if(!data)return;const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download='talha-site-taslak.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
