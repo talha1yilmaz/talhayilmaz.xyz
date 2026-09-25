@@ -2,6 +2,8 @@
 
 Ziyaretçi sitesi GitHub Pages'te; özel yönetim paneli Cloudflare Worker ve D1 üzerinde çalışır. Yerel bilgisayar veya Cloudflare Tunnel gerekmez.
 
+Canlı adresler: [site](https://talhayilmaz.xyz/) ve [yönetim paneli](https://admin.talhayilmaz.xyz/). 25 Eylül 2026'da GitHub girişinden kaydetme ve yayınlamaya, görsel yüklemeden canlı proje sayfasına kadar akış doğrulandı. Masaüstündeki `Site_Yonetim_Paneli.bat` ve proje içindeki `baslat_admin_uzaktan.bat` artık yönetim adresini açar.
+
 ## Kaynak ve yayın ayrımı
 
 - `content/site.json`: GitHub'daki yayımlanmış içerik, profil, projeler ve sayfa düzeni.
